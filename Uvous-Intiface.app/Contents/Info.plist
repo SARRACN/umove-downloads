@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Uvous-Intiface</string>
+	<key>CFBundleExecutable</key>
+	<string>umove-desktop</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.umovetech.desktop</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Uvous-Intiface</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.13</string>
+	<key>CFBundleIconFile</key>
+	<string>Uvous-Intiface.icns</string>
+	<key>LSRequiresCarbon</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Uvous 在您搜索和连接设备时使用蓝牙，以连接所选设备并传送控制指令。</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Uvous 在您搜索和连接设备时使用蓝牙，以连接所选设备并传送控制指令。</string>
+</dict>
+</plist>
